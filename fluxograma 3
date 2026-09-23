@@ -1,0 +1,74 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="j5gSquaxgz9Bm_6g_puI">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="inicio" vertex="1">
+          <mxGeometry height="80" width="120" x="290" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-8" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="2NEoj-btSuCI5-GjtI-m-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-9" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-7" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="lern" vertex="1">
+          <mxGeometry height="80" width="200" x="250" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-23" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="2NEoj-btSuCI5-GjtI-m-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-27" connectable="0" parent="2NEoj-btSuCI5-GjtI-m-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nao" vertex="1">
+          <mxGeometry relative="1" x="-0.1857" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-25" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="2NEoj-btSuCI5-GjtI-m-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-26" connectable="0" parent="2NEoj-btSuCI5-GjtI-m-25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.35" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" value="&amp;gt;12,5" vertex="1">
+          <mxGeometry height="120" width="160" x="270" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-36" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="2NEoj-btSuCI5-GjtI-m-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-20" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#647687;fontColor=#ffffff;strokeColor=#314354;" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;escrever &quot;aprovado&quot;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="290" y="590" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-45" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="2NEoj-btSuCI5-GjtI-m-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-24" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;escrever &quot;reprovado&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="550" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-29" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#6d8764;fontColor=#ffffff;strokeColor=#3A5431;" value="fim" vertex="1">
+          <mxGeometry height="80" width="120" x="680" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="630" as="sourcePoint" />
+            <mxPoint x="600" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-43" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="590" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="2NEoj-btSuCI5-GjtI-m-48" edge="1" parent="1" source="2NEoj-btSuCI5-GjtI-m-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.625;entryDx=0;entryDy=0;entryPerimeter=0;" target="2NEoj-btSuCI5-GjtI-m-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
