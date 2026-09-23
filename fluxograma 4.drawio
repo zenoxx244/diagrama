@@ -1,0 +1,132 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="j5gSquaxgz9Bm_6g_puI">
+    <mxGraphModel dx="1414" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cSqzolHNl-tPhACIlddb-2" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="inico" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-5" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever tres n" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-14" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-15" connectable="0" parent="cSqzolHNl-tPhACIlddb-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.113" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-23" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-25" connectable="0" parent="cSqzolHNl-tPhACIlddb-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nao" vertex="1">
+          <mxGeometry relative="1" x="-0.16" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="n1&amp;gt;n2" vertex="1">
+          <mxGeometry height="100" width="110" x="325" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-17" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cSqzolHNl-tPhACIlddb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-18" connectable="0" parent="cSqzolHNl-tPhACIlddb-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="0.0805" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-20" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-21" connectable="0" parent="cSqzolHNl-tPhACIlddb-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nao" vertex="1">
+          <mxGeometry relative="1" x="-0.1692" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-13" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="n1&amp;gt;n3" vertex="1">
+          <mxGeometry height="80" width="80" x="550" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-35" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-16" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever n1" vertex="1">
+          <mxGeometry height="60" width="120" x="707" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-33" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="cSqzolHNl-tPhACIlddb-32">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="860" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-22" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever n3" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-27" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-28" connectable="0" parent="cSqzolHNl-tPhACIlddb-27" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="sim" vertex="1">
+          <mxGeometry relative="1" x="-0.0615" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-29" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-30" connectable="0" parent="cSqzolHNl-tPhACIlddb-29" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="nao" vertex="1">
+          <mxGeometry relative="1" x="-0.0421" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-24" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="n2&amp;gt;n3" vertex="1">
+          <mxGeometry height="80" width="80" x="340" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-34" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-26" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever n2" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-36" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-31" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="escrever n3" vertex="1">
+          <mxGeometry height="60" width="120" x="325" y="870" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-40" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-32" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;aspect=fixed;" value="" vertex="1">
+          <mxGeometry height="20" width="20" x="860" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-38" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="fim" vertex="1">
+          <mxGeometry height="80" width="120" x="1040" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-41" edge="1" parent="1" source="cSqzolHNl-tPhACIlddb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="cSqzolHNl-tPhACIlddb-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cSqzolHNl-tPhACIlddb-39" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="imprimir" vertex="1">
+          <mxGeometry height="30" width="100" x="910" y="680" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
